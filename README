@@ -1,0 +1,5 @@
+LogAnalyser is a tool for analyser some log. 
+We use hadoop to build data and use cassandra to store this data.
+The data model is simple with key=email and value=list of columns each record one send log.
+The project is contributed by Huyuan and Langxiaodong from China.
+For any questions ,please regard to lxd198410@yahoo.com.cn
